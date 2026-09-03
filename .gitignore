@@ -1,0 +1,28 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Nextflow
+.nextflow/
+.nextflow.log*
+work/
+
+# Generated results
+results/
+
+# Generated databases
+database/*.db
+
+# Raw/reference data
+data/raw/
+data/reference/
+
+# Annotation caches
+.vep/
+cache/
+
+# OS/editor
+.DS_Store
+.vscode/

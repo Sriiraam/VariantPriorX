@@ -1,0 +1,4 @@
+sample_id	sample_alias	dataset	assembly	variant_type	file_role	filename	source
+HG002	NA24385	GIAB_CMRG_v1.00	GRCh38	SNV_INDEL	benchmark_vcf	HG002_GRCh38_CMRG_smallvar_v1.00.vcf.gz	NIST_GIAB
+HG002	NA24385	GIAB_CMRG_v1.00	GRCh38	SNV_INDEL	vcf_index	HG002_GRCh38_CMRG_smallvar_v1.00.vcf.gz.tbi	NIST_GIAB
+HG002	NA24385	GIAB_CMRG_v1.00	GRCh38	SNV_INDEL	benchmark_regions	HG002_GRCh38_CMRG_smallvar_v1.00.bed	NIST_GIAB
