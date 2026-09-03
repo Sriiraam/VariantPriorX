@@ -26,3 +26,8 @@ cache/
 # OS/editor
 .DS_Store
 .vscode/
+
+# Keep final dashboard database
+!database/
+database/*
+!database/variantpriorx.db
