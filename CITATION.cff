@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use VariantPriorX, please cite this software using the metadata below."
+title: "VariantPriorX"
+type: software
+authors:
+  - family-names: "B."
+    given-names: "Sriram"
+repository-code: "https://github.com/Sriiraam/VariantPriorX"
+version: "0.1.0"
+date-released: "2026-09-03"
+license: "MIT"
+keywords:
+  - bioinformatics
+  - clinical-genomics
+  - variant-prioritization
+  - germline-variants
+  - genomics
+  - Nextflow
+  - ClinVar
+  - gnomAD
+  - VEP
+  - Streamlit
+abstract: >-
+  VariantPriorX is a reproducible bioinformatics portfolio project for
+  evidence-based prioritization of medically relevant germline variants
+  from the GIAB HG002 CMRG benchmark genome using functional consequence,
+  population frequency, and curated clinical evidence.
